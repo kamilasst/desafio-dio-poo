@@ -124,4 +124,6 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 ______________________________________________________________________________________________________________
 
-⭐️ Curso e conteúdo do README criado e disponibilizado por cami-la -> https://github.com/cami-la/desafio-poo-dio
+⭐️ Curso da Plataforma DIO.
+⭐️ Aula ministrada por Camila Cavalcante
+⭐️ Conteudo do README criado e disponibilizado por cami-la -> https://github.com/cami-la/desafio-poo-dio
