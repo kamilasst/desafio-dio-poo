@@ -29,8 +29,7 @@ public class Main {
 
         imprimirMensagem("-------");
 
-        Dev dev2 = new Dev();
-        dev2.setNome("Joao");
+        Dev dev2 = createDev("Joao");
         inscreverBootcamp(dev2, bootcamp);
         imprimirMensagem("Conteúdos Inscritos " + dev2.getNome() + " : " + dev2.getConteudosInscritos());
         dev2.progredir();
